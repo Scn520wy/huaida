@@ -1,0 +1,2 @@
+[ Fri Oct 25 14:16:30 2024 ] Load weights from work_dir/mix_joint/runs-57-31521.pt.
+[ Fri Oct 25 14:16:30 2024 ] using warm up, epoch: 5
